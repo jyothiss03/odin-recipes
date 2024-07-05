@@ -1,0 +1,23 @@
+body{
+    align-content: center;
+}
+
+h1{
+    align-content: center;
+    background-color: #a0c794;
+    padding: 20%;
+}
+
+
+body{
+    display: flex;
+    flex-direction: row;
+    
+    justify-content:center ;
+    background-color: rgb(150, 150, 150);
+}
+a{
+    background-color: beige;
+   padding-inline:10% ;
+    border-radius: 30%;
+}
